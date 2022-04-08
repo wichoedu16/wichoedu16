@@ -12,7 +12,7 @@
 ##### SKILLS
 - 💻 I use daily: `.java`, `.js`, `.html`, `.css`, `.jsf`, `.docker`, `.vm`
 - 🌱 Learning all about **Data Engineering**
-- 📫 Reach me: [https://twitter.com/EduRomeroxP](https://twitter.com/EduRomeroxP)
+- 📫 Reach me: [📩](https://twitter.com/EduRomeroxP)
 
 ##### CONTACT
 
