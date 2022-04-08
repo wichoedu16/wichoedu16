@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Wilson Eduardo
+### Hi there 👋, I'm Wilson Eduardo
 
-#### I'm a Full-Stack Developer working in Qiuto, Ecuador.
-✨ I'm an engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.
+#### I'm a Full-Stack Developer working in Quito, Ecuador.
+✨ I'm a software engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.
 
 
 ##### NOW
